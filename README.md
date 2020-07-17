@@ -1,5 +1,8 @@
 ### Hi, I'm Michele 👋
 
+I have to fill the new github profile readme but I have no asset to put it on and no content.
+I'll prepare, I promise, but now you can read something under my profile image.
+
 <!--
 **mdiegoli/mdiegoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
