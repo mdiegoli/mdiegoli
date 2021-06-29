@@ -1,6 +1,6 @@
 ### Hi, I'm Michele 👋
 
-Here where I'm doing some js stuff
+Here where I'm doing some js stuff :video_game: :art: :space_invader:
 
 [https://geomensione.github.io](https://geomensione.github.io)
 
